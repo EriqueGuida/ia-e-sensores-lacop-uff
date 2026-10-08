@@ -1,0 +1,439 @@
+{
+    "base": "S*.csv (Grupo de Participantes)",
+    "alvo": "categoria",
+    "tipo": "classificacao",
+    "entradas": [
+        "back_x",
+        "back_y",
+        "back_z",
+        "thigh_x",
+        "thigh_y",
+        "thigh_z"
+    ],
+    "acuracia": 0.9718686868686869,
+    "piso": 0.3333333333333333,
+    "classes": [
+        "Alta Intensidade (Walking/Running/Cycling)",
+        "Atividade Leve (Standing/Shuffling)",
+        "Sedentário (Sitting/Lying)"
+    ],
+    "matriz_confusao": [
+        [
+            6518,
+            68,
+            14
+        ],
+        [
+            443,
+            6157,
+            0
+        ],
+        [
+            24,
+            8,
+            6568
+        ]
+    ],
+    "amostras": [
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        },
+        {
+            "real": "Atividade Leve (Standing/Shuffling)",
+            "previsto": "Atividade Leve (Standing/Shuffling)"
+        },
+        {
+            "real": "Alta Intensidade (Walking/Running/Cycling)",
+            "previsto": "Alta Intensidade (Walking/Running/Cycling)"
+        },
+        {
+            "real": "Sedentário (Sitting/Lying)",
+            "previsto": "Sedentário (Sitting/Lying)"
+        }
+    ]
+}
