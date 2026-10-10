@@ -20,7 +20,7 @@ Modelo de regressão para prever a temperatura futura de um ambiente a partir de
 **Métrica:** MAE
 **Resultado:** redução do erro de aproximadamente **61%** em relação ao baseline.
 
-→ [`projetos/01-temperatura-e-umidade`](projetos/01-temperatura-e-umidade)
+→ [`01-temperatura-umidade`](01-temperatura-umidade)
 
 ---
 
@@ -32,7 +32,7 @@ Modelo de regressão para estimar o consumo horário de energia a partir de info
 **Métrica:** MAE
 **Resultado:** redução do erro de aproximadamente **87%** em relação ao baseline.
 
-→ [`projetos/02-consumo-de-energia`](projetos/02-consumo-de-energia)
+→ [`02-consumo-energia`](02-consumo-energia)
 
 ---
 
@@ -45,7 +45,7 @@ Classificação de atividades humanas utilizando dados de acelerômetros posicio
 **Experimentos:** participante individual e grupo de participantes.
 
 O experimento com grupo de participantes apresentou **97,2% de acurácia**, enquanto o experimento individual com S022 apresentou **95,8%**.
-→ [`projetos/03-reconhecimento-de-atividade`](projetos/03-reconhecimento-de-atividade)
+→ [`03-reconhecimento-atividade`](03-reconhecimento-atividade)
 
 > **Nota:** os resultados do projeto de reconhecimento de atividade ainda passam por uma etapa de validação do mapeamento dos rótulos do dataset antes de serem considerados resultados definitivos.
 
